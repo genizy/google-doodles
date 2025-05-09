@@ -2735,7 +2735,7 @@
             h && c.scale(-1, 1)
     };
     var of = function() {
-        gf.call(this, rf)
+        gf.call(this, "", rf)
     };
     q(of, gf);
     var rf = ["svg-sprite.svg", "pitcher-sprite.svg"]
